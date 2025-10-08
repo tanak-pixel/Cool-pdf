@@ -24,7 +24,7 @@ Python 3.8+
 No third-party Python packages required
 Build and Run
 Open a terminal in the project folder:
-cd C:\Users\Rahul\Downloads\pdftris-main\pdftris-main
+cd C:\Users\Dell\OneDrive\Desktop\Programs\Cool-pdf\Cool-pdf>
 Generate the PDF:
 python gengrid.py
 Open cool.pdf in Chrome or Firefox and play.
@@ -35,6 +35,6 @@ Notes
 Some PDF viewers (including older or non-standard ones) may not execute the embedded JavaScript or show colors properly. Use Chrome or Firefox for best results.
 Credits
 Original idea: “Tetris in a PDF” (see background at https://th0mas.nl/2025/01/12/tetris-in-a-pdf/).
-Enhancements and colorized gameplay: Developer Rahul.
+Enhancements and colorized gameplay:Tanak Solanki .
 License
 Provided as-is for educational and demonstration purposes.
